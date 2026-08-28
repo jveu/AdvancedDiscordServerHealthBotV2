@@ -2,6 +2,8 @@
 
 An advanced, modular Python Discord bot for auditing server security, roles, channels, bots, activity, configuration and overall health.
 
+**New Versions Will come in later dates**
+
 **Credits:** @jveu — original inspiration/project concept.
 
 ## Highlights
