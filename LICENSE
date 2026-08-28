@@ -1,21 +1,45 @@
-MIT License
-
+CUSTOM NON-COMMERCIAL LICENSE
 Copyright (c) 2026 jveu
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use, view, and modify this software for personal
+and non-commercial purposes, subject to the restrictions below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+RESTRICTIONS
+
+1. You may NOT sell, resell, rent, lease, sublicense, or otherwise
+   commercially distribute this software or any substantial portion of it.
+
+2. You may NOT redistribute, republish, mirror, re-upload, or provide
+   copies of this software or substantial portions of it through another
+   repository, website, Discord server, marketplace, or other platform
+   without explicit written permission from jveu.
+
+3. You may NOT use this software or substantial portions of it as part of
+   a paid product, paid service, subscription, marketplace listing, or
+   other commercial offering without explicit written permission from jveu.
+
+4. You may NOT claim this software or substantial portions of it as your
+   own original work.
+
+5. You may NOT remove, modify, or hide copyright, author, or credit notices.
+
+6. The credit to @jveu must remain included in the software and any
+   permitted copies or modified versions.
+
+7. You may modify the software for your own personal or non-commercial use.
+   Modified versions remain subject to this license.
+
+8. Any rights not explicitly granted by this license are reserved by jveu.
+
+COMMERCIAL USE
+
+Commercial use, commercial redistribution, resale, sublicensing, and
+inclusion in a commercial product or service require prior written
+permission from jveu.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+jveu BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
